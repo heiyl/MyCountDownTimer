@@ -2,4 +2,4 @@
 
 
 ![Aaron Swartz]
-(https://raw.githubusercontent.com/heiyl/MyCountDownTimer/master/img-folder/1.png)
+(https://github.com/heiyl/MyCountDownTimer/blob/master/img-folder/1.png)
