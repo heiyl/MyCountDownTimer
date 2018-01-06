@@ -2,4 +2,4 @@
 
 
 ![Image text]
-(https://raw.github.com/heiyl/repositpry/master/MyCountDownTimer/img-folder/1.png)
+(https://raw.githubusercontent.com/heiyl/MyCountDownTimer/master/img-folder/1.png)
