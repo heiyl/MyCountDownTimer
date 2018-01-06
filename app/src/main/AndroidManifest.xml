@@ -26,7 +26,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CountDownTimer.CountCodeActivity"></activity>
+        <activity android:name=".CountCodeActivity" />
+        <activity android:name=".CountPauseActivity"></activity>
     </application>
 
 </manifest>

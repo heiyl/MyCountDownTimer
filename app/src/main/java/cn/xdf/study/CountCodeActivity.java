@@ -1,4 +1,4 @@
-package cn.xdf.study.CountDownTimer;
+package cn.xdf.study;
 
 import android.graphics.Color;
 import android.os.Bundle;
@@ -9,6 +9,7 @@ import android.text.style.ForegroundColorSpan;
 import android.view.View;
 import android.widget.TextView;
 
+import cn.xdf.study.CountDownTimer.CustomCountDownTimerUtils;
 import cn.xdf.study.R;
 
 public class CountCodeActivity extends AppCompatActivity implements View.OnClickListener{

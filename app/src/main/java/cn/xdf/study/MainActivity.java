@@ -6,8 +6,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import cn.xdf.study.CountDownTimer.CountCodeActivity;
-
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     private TextView tv_getcode;
@@ -31,6 +29,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(countCode);
                 break;
             case R.id.tv_pause:
+                Intent countPause = new Intent(MainActivity.this, CountPauseActivity.class);
+                startActivity(countPause);
                 break;
         }
     }
