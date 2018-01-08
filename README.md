@@ -1,5 +1,8 @@
 # MyCountDownTimer
 
-
-![Aaron Swartz]
-(https://github.com/heiyl/MyCountDownTimer/blob/master/img-folder/1.png)
+![image](MyCountDownTimer/img-folder/1.png)
+![image](MyCountDownTimer/img-folder/2.png)
+![image](MyCountDownTimer/img-folder/3.png)
+![image](MyCountDownTimer/img-folder/4.png)
+![image](MyCountDownTimer/img-folder/5.png)
+![image](MyCountDownTimer/img-folder/6.png)
